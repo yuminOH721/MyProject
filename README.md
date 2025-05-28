@@ -15,7 +15,7 @@ Include some badges such as build status, test coverage, etc.
 - Feature 1
 - Feature 2
 - Feature 3
-
+---
 ## Installation
 
 >git clone https://github.com/username/projectname.git
